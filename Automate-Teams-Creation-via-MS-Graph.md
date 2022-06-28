@@ -90,10 +90,6 @@ Save the file in a OneDrive or in a Docuemnt Library
 
 ## 4.Power Automate
 This is the most interesting part. To create the Power Automate flow by using the above elements.
-Please check the **Solution** file for the Power Automate Flow.
-
-## When all above steps are done, go to the file [Solution](https://github.com/shehanperera85/Teams-via-MS-Graph-and-Power-Automate/blob/main/Solution.md#how-to-create-the-power-automate-flow) 
-
 
 # How to Create the Power Automate Flow
 
