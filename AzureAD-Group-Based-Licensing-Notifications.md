@@ -15,6 +15,6 @@ Spoiler Alert. Your end result will look like this.
 
 ## What do you need?
 
-### [Intro and Prereqs]([https://github.com/shehanperera85/Teams-via-MS-Graph-and-Power-Automate/blob/main/IntroAndPrereqs.md](https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md)#Getting MS Graph Registered as an app with the specific permissions to perform the task)
+### [MS Graph API Permissions](https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md)
 
 ### Permissions Required
