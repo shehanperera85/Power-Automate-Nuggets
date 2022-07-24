@@ -17,7 +17,7 @@ Spoiler Alert. Your end result will look like this.
 
 ## What do you need?
 
-### [Registering an app]([https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md](https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md#1-register-power-automate-as-an-azure-ad-app))
+### [Registering an app](https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md)
 
 ### Permissions Required
 Group.Read.All
