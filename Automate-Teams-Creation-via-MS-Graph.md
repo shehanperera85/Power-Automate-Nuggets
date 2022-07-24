@@ -21,7 +21,7 @@ Of course you can use powershell to run MS Graph, but what I'm showcasing is a w
 4. Excel Online Workbook
 5. Power Automate
 
-## 1. Register Power Automate as an Azure AD App(https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md)
+## [1. Register Power Automate as an Azure AD App] (https://github.com/shehanperera85/Power-Automate-Nuggets/blob/main/1.%20Setting%20up%20MS%20Graph%20Permissions.md)
 
 For later activities you need to perform in Power Automate using MS Graph, you ned to make sure Power Automate is registered as an app by providing the consent.
 
