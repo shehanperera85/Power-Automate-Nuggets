@@ -1,3 +1,5 @@
+# AzureAD Group Based Licensing Notifications
+
 **Goal of this automation task**
 
 Microsoft very cleverly introduced the **group based licensing** feature some time ago that helps the IT admins to assign licenses to Azure AD groups and the users who are in them will get those licenses assigned. Pretty neat way to standardize the license assignment workflows and helps to manage users in a better way.
